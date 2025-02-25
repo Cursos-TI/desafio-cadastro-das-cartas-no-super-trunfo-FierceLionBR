@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 
@@ -338,3 +339,6 @@
 
     
 }
+=======
+
+>>>>>>> 0eddd3d84e722b9f7de4add4cff4a5aa587f4e3c
